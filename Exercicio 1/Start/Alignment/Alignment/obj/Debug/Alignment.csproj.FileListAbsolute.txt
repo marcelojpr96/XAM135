@@ -1,0 +1,17 @@
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Alignment.dll
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Alignment.pdb
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\obj\Debug\Alignment.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\obj\Debug\Alignment.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\obj\Debug\Alignment.MainPage.xaml.g.cs
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\obj\Debug\Alignment.App.xaml.g.cs
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\obj\Debug\Alignment.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\obj\Debug\Alignment.dll
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\obj\Debug\Alignment.pdb

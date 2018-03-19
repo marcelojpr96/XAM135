@@ -1,0 +1,2 @@
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment.UWP\Alignment.UWP.csproj;x86
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM135\Exercicio 1\Start\Alignment\Alignment\Alignment.csproj;neutral
